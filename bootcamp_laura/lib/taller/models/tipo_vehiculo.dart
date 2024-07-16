@@ -1,0 +1,6 @@
+enum TipoVehiculo{
+  CICLOMOTOR,
+  FURGONETA,
+  MOTOCICLETA,
+  TURISMO,
+}

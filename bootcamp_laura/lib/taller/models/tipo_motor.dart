@@ -1,0 +1,4 @@
+enum TipoMotor {
+  COMBUSTIO,
+  ELECTRIC,
+}

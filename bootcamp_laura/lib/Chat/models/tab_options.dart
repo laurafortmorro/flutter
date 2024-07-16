@@ -1,0 +1,4 @@
+enum TabOptions{
+  CHATS,
+  PETICIONES,
+}

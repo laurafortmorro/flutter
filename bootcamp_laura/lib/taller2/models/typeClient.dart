@@ -1,0 +1,4 @@
+enum TypeClient {
+  PARTICULAR,
+  EMPRESA
+}
