@@ -1,0 +1,71 @@
+        {
+            "id": 310,
+            "email": "atolosa6@abalit.org",
+            "name": "atolosa6",
+            "username": "@atolosa6",
+            "avatar_url": "https://unauni2.apiabalit2.com/storage/users/310/HxVv0kIKDWiZrSXH.png",
+            "birth_date": null,
+            "instagram_url": null,
+            "twitter_url": null,
+            "facebook_url": null,
+            "tiktok_url": null,
+            "linkedin_url": null,
+            "state": null,
+            "description": null,
+            "following_count": 0,
+            "followers_count": 0,
+            "topics_count": 0,
+            "topics_liked_count": 0,
+            "liked": false,
+            "show_edit_profile": false,
+            "chat_open": false,
+            "pending_petition": false,
+            "chat_id": null,
+            "rol": {
+                "id": 3,
+                "name": "Veterano",
+                "color": "#1E2083",
+                "helper": "Ya estoy estudiando en la universidad",
+                "status_roles": [
+                    {
+                        "id": 6,
+                        "name": "Alumno de 2º de carrera en el curso 2022/2023"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Alumno de 3º de carrera en el curso 2022/2023"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Alumno de 4º de carrera en el curso 2022/2023"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Alumno de 5º de carrera en el curso 2022/2023"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Alumno de 6º de carrera en el curso 2022/2023"
+                    }
+                ]
+            },
+            "province": {
+                "id": 15,
+                "name": "Albacete"
+            },
+            "degree": {
+                "id": 5,
+                "name": "Arquitectura - Fundamentos de Arquitectura",
+                "abbreviation": "Arquitectura"
+            },
+            "university": {
+                "id": 3,
+                "name": "Universidad de Córdoba",
+                "acronym": "UCO",
+                "province_id": 3,
+                "province": {
+                    "id": 3,
+                    "name": "Córdoba"
+                }
+            }
+        }
