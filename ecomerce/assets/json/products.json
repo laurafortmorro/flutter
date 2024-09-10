@@ -1,0 +1,132 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "category": {
+        "id": 1,
+        "name": "China",
+        "image": "assets/chinese.svg"
+      },
+      "name": "Pegatina tigre de la suerte",
+      "description": "On olemassa monta eri versiota Lorem Ipsumin kappaleista, mutta suurin osa on kärsinyt muunnoksista joissain muodoissa, kuten huumorin tai sattumanvaraisesti asetetuin sanoin jotka eivät näytä edes vähän uskottavalta.",
+      "price": 4.00,
+      "img_url": "https://ih1.redbubble.net/image.1194398636.7172/st,small,507x507-pad,600x600,f8f8f8.jpg",
+      "location": {
+        "latitude": 31.2304,
+        "longitude": 121.4737
+      }
+    },
+    {
+      "id": 2,
+      "category": {
+        "id": 1,
+        "name": "China",
+        "image": "assets/chinese.svg"
+      },
+      "name": "Postal gato de la suerte",
+      "description": "On olemassa monta eri versiota Lorem Ipsumin kappaleista, mutta suurin osa on kärsinyt muunnoksista joissain muodoissa, kuten huumorin tai sattumanvaraisesti asetetuin sanoin jotka eivät näytä edes vähän uskottavalta.",
+      "price": 2.50,
+      "img_url": "https://ih1.redbubble.net/image.4780711550.5758/pp,504x498-pad,600x600,f8f8f8.jpg",
+      "location": {
+        "latitude": 31.2304,
+        "longitude": 121.4737
+      }
+    },
+    {
+      "id": 3,
+      "category": {
+        "id": 1,
+        "name": "China",
+        "image": "assets/chinese.svg"
+      },
+      "name": "Dios de la fortuna",
+      "description": "On olemassa monta eri versiota Lorem Ipsumin kappaleista, mutta suurin osa on kärsinyt muunnoksista joissain muodoissa, kuten huumorin tai sattumanvaraisesti asetetuin sanoin jotka eivät näytä edes vähän uskottavalta.",
+      "price": 10.50,
+      "img_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/3c55d55c3129e6f3e7d5665a68f888a8.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp",
+      "location": {
+        "latitude": 31.2304,
+        "longitude": 121.4737
+      }
+    },
+    {
+      "id": 4,
+      "category": {
+        "id": 4,
+        "name": "Vietnam",
+        "image": "assets/vietnam.svg"
+      },
+      "name": "Colgante año nuevo",
+      "description": "On olemassa monta eri versiota Lorem Ipsumin kappaleista, mutta suurin osa on kärsinyt muunnoksista joissain muodoissa, kuten huumorin tai sattumanvaraisesti asetetuin sanoin jotka eivät näytä edes vähän uskottavalta.",
+      "price": 12.00,
+      "img_url": "https://img.kwcdn.com/product/open/2023-12-22/1703227911540-9493b57e80de46de86bcaef5c01786cd-goods.jpeg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp",
+      "location": {
+        "latitude": 14.0583,
+        "longitude": 108.2772
+      }
+    },
+    {
+      "id": 5,
+      "category": {
+        "id": 5,
+        "name": "Japón",
+        "image": "assets/japan.svg"
+      },
+      "name": "Amuleto para la salud",
+      "description": "On olemassa monta eri versiota Lorem Ipsumin kappaleista, mutta suurin osa on kärsinyt muunnoksista joissain muodoissa, kuten huumorin tai sattumanvaraisesti asetetuin sanoin jotka eivät näytä edes vähän uskottavalta.",
+      "price": 10.20,
+      "img_url": "https://www.omamori.com/516-medium_default/amuleto-para-la-salud.jpg",
+      "location": {
+        "latitude": 36.2048,
+        "longitude": 138.2529
+      }
+    },
+    {
+      "id": 6,
+      "category": {
+        "id": 5,
+        "name": "Japón",
+        "image": "assets/india.svg"
+      },
+      "name": "Amuleto de la protección",
+      "description": "On olemassa monta eri versiota Lorem Ipsumin kappaleista, mutta suurin osa on kärsinyt muunnoksista joissain muodoissa, kuten huumorin tai sattumanvaraisesti asetetuin sanoin jotka eivät näytä edes vähän uskottavalta.",
+      "price": 10.30,
+      "img_url": "https://www.omamori.com/539-large_default/amuleto-japones-omamori-proteccion.jpg",
+      "location": {
+        "latitude": 35.652832,
+        "longitude": 39.839478
+      }
+    },
+    {
+      "id": 7,
+      "category": {
+        "id": 2,
+        "name": "India",
+        "image": "assets/india.svg"
+      },
+      "name": "Postal mano de Fatima",
+      "description": "On olemassa monta eri versiota Lorem Ipsumin kappaleista, mutta suurin osa on kärsinyt muunnoksista joissain muodoissa, kuten huumorin tai sattumanvaraisesti asetetuin sanoin jotka eivät näytä edes vähän uskottavalta.",
+      "price": 10.20,
+      "img_url": "https://ih1.redbubble.net/image.2411568647.6070/fposter,small,wall_texture,square_product,600x600.jpg",
+      "location": {
+        "latitude": 28.6139,
+        "longitude": 77.2088
+      }
+    },
+    {
+      "id": 8,
+      "category": {
+        "id": 3,
+        "name": "Tailandia",
+        "image": "assets/thailand.svg"
+      },
+      "name": "Colgante símbolos mágicos",
+      "description": "On olemassa monta eri versiota Lorem Ipsumin kappaleista, mutta suurin osa on kärsinyt muunnoksista joissain muodoissa, kuten huumorin tai sattumanvaraisesti asetetuin sanoin jotka eivät näytä edes vähän uskottavalta.",
+      "price": 50.50,
+      "img_url": "https://ae01.alicdn.com/kf/S18826a07d42f4447a42ddcbc1b6de69eG.jpg_640x640Q90.jpg_.webp",
+      "location": {
+        "latitude": 13.7563,
+        "longitude": 100.5018
+      }
+    }
+  ]
+}
